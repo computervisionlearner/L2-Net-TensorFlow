@@ -1,0 +1,4 @@
+18-06-05 19:27-INFO-Restoring parameters from ckpt/model.ckpt-479000
+18-06-05 19:28-INFO-fpr95 = 0.11116390876565295
+18-06-05 19:28-DEBUG-findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python2.7/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000
+18-06-05 19:28-DEBUG-findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python2.7/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000

@@ -1,0 +1,23 @@
+field = 0.1949222901168969
+forest = 0.02293
+indoor = 0.05808
+mountain = 0.09713
+oldbuilding = 0.04375
+street = 0.048478
+urban = 0.02391
+water = 0.094267
+
+mean = 0.0729
+std = 5.302 
+
+
+
+数据增强之后：
+field = 0.16773
+forest = 0.007679
+indoor = 0.02070
+mountain = 0.05979
+oldbuilding = 0.01876
+street = 0.02828
+urban = 0.006228
+water = 0.1111
